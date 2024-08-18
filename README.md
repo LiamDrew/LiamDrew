@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+To see my implementation of a social goal-tracking web and mobile app (still in progress) in React and SwiftUI, please check out the Forge repository.
+
 <!--
 **LiamDrew/LiamDrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
