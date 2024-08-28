@@ -9,7 +9,7 @@ If you think I can make a difference on your team or at your company, please ema
 
 ## Fields of Interest
 - **Industrial software**, particularly for agricultural or automotive applications
-- **Finance**, particularly quant trading
+- **Finance**
 - **Productivity and Task Management**
 
 ## Experience with Languages and Frameworks
