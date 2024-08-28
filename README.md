@@ -12,7 +12,7 @@ If you think I can make a difference on your team or at your company, please rea
 - **Finance**, particularly quant trading
 - **Productivity and Task Management**
 
-## Skills and Experience
+## Experience with Languages and Frameworks
 
 ### Python
 - **Dark Arts Software (Summer 2024)**: I interned at Dark Arts Software, where I helped develop and test models that generate partner dancing motion. I worked with state-of-the-art motion generation methods (primarily Deep-Phase Neural Networks) using PyTorch, ONNX, and Unity. *(This is a proprietary project, so the repo is private).*
