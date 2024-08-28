@@ -11,11 +11,11 @@ Productivity and Task Management
 I’m skilled at developing software using the following languages and frameworks:
 Python, particularly for Machine Learning applications.
 I interned at Dark Arts Software during the summer of 2024. There, I helped develop and test models that generate partner dancing motion. I worked with state-of-the-art motion generation methods (primarily Deep-Phase Neural Networks) using PyTorch, ONNX, and Unity. (This is a proprietary project, so the repo is private).
-VehicleMaintenance is a tool I developed that helps business owners with specialty vehicles (farmers, business owners, ect) stay up to date on their vehicle maintenance. I built a prototype using SQL, and refactored the tool using pandas and the pdflatex library to generate presentable reports for my users.
+[VehicleMaintenance]([url](https://github.com/LiamDrew/VehicleMaintenance)) is a tool I developed that helps business owners with specialty vehicles (farmers, business owners, ect) stay up to date on their vehicle maintenance. I built a prototype using SQL, and refactored the tool using pandas and the pdflatex library to generate presentable reports for my users.
 In a Machine Learning course at Tufts, I used logistic regression and BERT embeddings to classify text sentiment. I also used MLPs and CNNs to classify clothing images. I did this work with Scikit-learn and Keras. (To comply with university policy, the repo is private)
 I’ve also taken a Computer Vision course at Tufts, which gave me experience with pose estimation, feature detection, and image classification using CNNs (among other skills). I did this work with the cv2 library, as well as Scikit-learn. (Again, to comply with Tufts policy, this repo is private)
 React
-Forge is a fully functional social goal-tracking web app I built using React. This app uses Redux to support efficient data management, enabling an extremely responsive user experience. The app uses a Firebase backend and has a fully functional authentication system that I built from scratch.
+[Forge]([url](https://github.com/LiamDrew/Forge)) is a fully functional social goal-tracking web app I built using React. This app uses Redux to support efficient data management, enabling an extremely responsive user experience. The app uses a Firebase backend and has a fully functional authentication system that I built from scratch.
 C++
 I have extensive experience using C++ for school projects. As part of the Data Structures (CS15) course at Tufts, all students build:
 A metro simulator, 
