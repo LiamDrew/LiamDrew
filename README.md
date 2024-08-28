@@ -1,6 +1,5 @@
-# Hi, I'm Liam.
 
-I'm a senior at Tufts studying Computer Science, and I'm seeking a full-time, (preferably) in-person job starting in the summer of 2025.
+Hi, I'm Liam. I'm a senior at Tufts studying Computer Science, and I'm seeking a full-time, in-person job starting in the summer of 2025.
 
 I like building tools that help people solve problems.
 
