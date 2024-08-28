@@ -5,7 +5,7 @@ I like building tools that help people solve problems.
 
 I look for purpose through my work. I’m extremely invested in finding a company where I can take on responsibility and make a difference on an important project.
 
-If you think I can make a difference on your team or at your company, please reach out and let me know what I can do for you.
+If you think I can make a difference on your team or at your company, please email me at [william.ward.drew@gmail.com](mailto:william.ward.drew@gmail.com).
 
 ## Fields of Interest
 - **Industrial software**, particularly for agricultural or automotive applications
@@ -41,4 +41,4 @@ If you think I can make a difference on your team or at your company, please rea
   I successfully implemented all of these projects to a very high standard and got an A in the course. *(Repo is private to comply with Tufts policy).*
 
 ## Contact
-For more details regarding my work on projects that aren’t in public repos, please email me at [william.ward.drew@gmail.com](mailto:william.ward.drew@gmail.com).
+For more details regarding my work on projects that aren’t in public repos, please email me.
