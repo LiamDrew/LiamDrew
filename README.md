@@ -18,7 +18,7 @@ Here are some of my projects, public and private. For more details about my work
   - A program to compress and decompress text using Huffman coding
   - A program allowing users to index and search through files, similar to the “grep” command in Unix
 
-  I successfully implemented all of these projects to a very high standard, got an A in the course, and have TA’d this course since (and recently became a teaching fellow). *(Repo is private to comply with Tufts policy).*
+  I successfully implemented all of these projects to a very high standard, got an A in the course. *(Repo is private to comply with Tufts policy).*
 
 ### C
 - Experience programming in C as part of the Machine Structure and Assembly Language Programming (CS40) course at Tufts. Students implement:
